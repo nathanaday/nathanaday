@@ -1,8 +1,8 @@
 Hi, I'm @nathanaday
 
-I have been developing software for automation, vision, and IoT for the past 4 years. I believe data visualization is just as important as data handling, and thankfully I do both.
-
 **99% of what I work on is in private repo's! But I have an open source project in the making--more to come when I start grad school in Fall 2025**
+
+I only talk smack about python because I use it 8hrs a day. It's a love/hate relationship. Golang is my one true love.
 
 My mains:
 - 🐍 Python - The largest application I have every designed and deployed--an IoT gateway for fire detection--is entirely written in Python. I am a fan of FastAPI and Pydantic.
