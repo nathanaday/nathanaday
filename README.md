@@ -7,12 +7,12 @@
   <br></br>
 </div>
 
+Hi I'm Nathan! By day I run many private/company repositories for [our awesome IoT products](https://movitherm.com/itl/). In the rest of my time, I'm in a CS grad program at USC and working on some personal projects related to IoT and data science.
 
-Talk to me about
+Talk to me about:
 - Thermal cameras
 - IoT
 - Twin Peaks
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d91adc9f-04ed-433d-b6d4-f610c05b4aaa" alt="Snoopy" align="left">
-</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanaday&langs_count=8)
