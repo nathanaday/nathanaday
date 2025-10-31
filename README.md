@@ -1,5 +1,18 @@
-Hi, I'm @nathanaday
 
-**99% of what I work on is in private repo's! But I have an open source project in the making--more to come when I start grad school in Fall 2025**
+<div>
+<img src="https://github.com/user-attachments/assets/a7dfaee9-b79b-42a0-8c47-812bcb0db644" alt="City" align="center">
+</div>
+
+<div>
+  <br></br>
+</div>
 
 
+Talk to me about
+- Thermal cameras
+- IoT
+- Twin Peaks
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d91adc9f-04ed-433d-b6d4-f610c05b4aaa" alt="Snoopy" align="left">
+</div>
