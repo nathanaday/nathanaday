@@ -1,7 +1,9 @@
-
-<div>
-<img src="https://github.com/user-attachments/assets/a7dfaee9-b79b-42a0-8c47-812bcb0db644" alt="City" align="center">
-</div>
+  <a href="https://github.com/nathanaday">
+    <img
+      alt="Top Languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanaday&layout=donut-vertical&langs_count=8&custom_title=Nathan%27s%20Language%20Mix&bg_color=45,1a0b2e,3b0764,0f172a&title_color=f0abfc&text_color=e2e8f0&hide_border=true&border_radius=16&size_weight=0.5&count_weight=0.5"
+    />
+  </a>
 
 <div>
   <br></br>
@@ -14,9 +16,3 @@ Talk to me about:
 - Computer Vision
 - Twin Peaks
 
-  <a href="https://github.com/nathanaday">
-    <img
-      alt="Top Languages"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=nathanaday&layout=donut-vertical&langs_count=8&custom_title=Nathan%27s%20Language%20Mix&bg_color=45,1a0b2e,3b0764,0f172a&title_color=f0abfc&text_color=e2e8f0&hide_border=true&border_radius=16&size_weight=0.5&count_weight=0.5"
-    />
-  </a>
