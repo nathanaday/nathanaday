@@ -3,7 +3,7 @@ Hi, I'm Nathan! By day I run many private/company repositories for our awesome [
 
 I'm also a second year MSCS student at USC. My Fall course load focuses heavily on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and deep learning perception.
 
-My interests involve vision, world models, and [agent-powered condition monitoring](https://github.com/nathanaday/consensus).
+My interests involve vision, world models, and [agentic condition monitoring](https://github.com/nathanaday/consensus).
 
   <a href="https://github.com/nathanaday">
     <img
