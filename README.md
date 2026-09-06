@@ -11,7 +11,9 @@
 
 Hi, I'm Nathan! By day I run many private/company repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). I am responsible for agent-powered IoT, vision processing, and AWS cloud infrastructure. I've been working on this solution since its inception back in 2021, and to date we have stopped several fires in our clients' facilities.
 
-I'm also a second year MSCS student at USC. I am learning hands-on about optimizing algorithms, agent safety, and frontier vision models. My Fall course load focuses heavily on applications for autonomous vehicles from two perspectives: cyber-physical control and deep learning perception.
+I'm also a second year MSCS student at USC. I am learning hands-on about optimizing algorithms, agent safety, and frontier vision models. My Fall course load focuses heavily on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and deep learning perception.
+
+Lately I've been interested in [agent-powered condition monitoring](https://github.com/nathanaday/consensus).
 
 Talk to me about:
 - Infrared cameras 
