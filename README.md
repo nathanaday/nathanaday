@@ -9,7 +9,9 @@
   <br></br>
 </div>
 
-Hi, I'm Nathan! By day I run many private/company repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). In the rest of my time, I'm in a CS grad program at USC, focusing on agent safety and frontier vision models.
+Hi, I'm Nathan! By day I run many private/company repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). I am responsible for agent-powered IoT, vision processing, and AWS cloud infrastructure. I've been working on this solution since its inception back in 2021, and to date we have stopped many fires from progressing in industry facilities.
+
+I'm also a second year MSCS student at USC. I am learning hands-on about agent safety and frontier vision models.
 
 Talk to me about:
 - Infrared cameras 
