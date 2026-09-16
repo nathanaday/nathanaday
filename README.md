@@ -1,9 +1,17 @@
 
-Hi, I'm Nathan! By day I run many private/company repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). I am responsible for agent-powered IoT, vision processing, and AWS cloud infrastructure. I've been working on this solution since its inception back in 2021, and to date we have stopped several fires in our clients' facilities.
+Hi, I'm Nathan! 
+
+By day I run many private/company repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). I am responsible for agent-powered IoT, vision processing, and AWS cloud infrastructure. I've been working on this solution since its inception back in 2021, and to date we have stopped several fires in our clients' facilities.
 
 I'm also a second year MSCS student at USC. My Fall course load focuses heavily on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and deep learning perception.
 
 My interests involve vision, world models, and [agentic condition monitoring](https://github.com/nathanaday/consensus).
+
+Talk to me about:
+1. Claude Code
+2. Computer Vision
+3. Twin Peaks
+4. Golang
 
   <a href="https://github.com/nathanaday">
     <img
