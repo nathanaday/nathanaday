@@ -5,7 +5,7 @@ By day I run many private repositories for our awesome [cloud-based fire detecti
 
 I'm also a second year MSCS student at USC. My current course load focuses on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and deep learning perception.
 
-On the side, I'm really passionate about using agents and LLMs to foster creative work. I have a lot of thoughts about how AI coding has disrupted focus, control, and passion in software projects, and I'm on a mission to make software engineering fun. My projects [almagest]([https://github.com/nathanaday/autonomous-vehicle-sandbox](https://github.com/nathanaday/almagest)) and [duet](https://github.com/nathanaday/obsidian-duet) bring agents to life in Obsidian so you can take notes without breaking focus and grow your own personal wiki.
+On the side, I'm really passionate about using agents and LLMs to foster creative work. I have a lot of thoughts about how AI coding has disrupted focus, control, and passion in software projects, and I'm on a mission to make software engineering fun. My projects [almagest]([https://github.com/nathanaday/autonomous-vehicle-sandbox](https://github.com/nathanaday/almagest) and [duet](https://github.com/nathanaday/obsidian-duet) bring agents to life in Obsidian so you can take notes without breaking focus and grow your own personal wiki.
 
 <br>
 
