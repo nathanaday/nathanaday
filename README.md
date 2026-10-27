@@ -30,8 +30,10 @@ On the side, I'm really passionate about using agents and LLMs to foster creativ
 ### my haiku
 
 > I really love Go.
-> I can tolerate Python,
-> where it is useful
+> 
+> I appreciate Python,
+> 
+> but it's not as safe
 
   <div align="center">
     <a href="https://github.com/nathanaday">
