@@ -7,7 +7,9 @@ During my day job, I perform R&D for our awesome, cloud-based [fire detection pr
 
 ### Graduate research
 
-I'm also a second year MSCS student at USC. My current course load focuses on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and [deep learning perception](https://github.com/kgqiao/monocular-depth-confidence-estimation).
+I'm also a second year MSCS student at USC. My current course load focuses on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: 
+- 🚗 cyber-physical control - building a high level planner to route autonomous vehicles safely through unknown situations 
+- 🚙 [deep learning perception](https://github.com/kgqiao/monocular-depth-confidence-estimation) - adding a trained confidence head to Depth Anything
 
 
 ### Current Passion Projects
@@ -16,12 +18,12 @@ On the side, I'm really passionate about using agents and LLMs to foster creativ
 
 
 - **Hassle-free** agentic workflows and **intuitive** workflow design
-  - [hikari](https://github.com/nathanaday/hikari) - agents run in isolated containers and communicate through a wiki-style orchestration layer
+  - 🐳 [hikari](https://github.com/nathanaday/hikari) - agents run in isolated containers and communicate through a wiki-style orchestration layer
  
 - Giving **Obsidian** markdown editor their agent superpowers
-  - [almagest](https://github.com/nathanaday/almagest) - LLM wiki knowledge base
-  - [duet](https://github.com/nathanaday/obsidian-duet) - in-line mentions to start your agent harness in any obsidian doc
-  - [yami](https://github.com/nathanaday/yami) - A Typescript library for LLM wiki powers (supercharged) (planned cutover w/ Almagest)
+  - 🐈‍⬛ [yami](https://github.com/nathanaday/yami) - A Typescript library for LLM wiki powers (supercharged) (planned cutover w/ Almagest)
+  - 🪉 [duet](https://github.com/nathanaday/obsidian-duet) - in-line mentions to start your agent harness in any obsidian doc
+  - 🗺️ [almagest](https://github.com/nathanaday/almagest) - LLM wiki knowledge base
 
 <br>
 
