@@ -1,13 +1,35 @@
 
 Hi, I'm Nathan! 
 
-By day I run many private repositories for our awesome [cloud-based fire detection products](https://movitherm.com/itl/). I've been working on this solution since its inception back in 2021, and to date we have stopped several fires in our clients' facilities. We are currently focused on new computer vision algorithms for more accurate fire detection and false alarm suppression.
+### Professional experience
 
-I'm also a second year MSCS student at USC. My current course load focuses on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and deep learning perception.
+During my day job, I perform R&D for our awesome, cloud-based [fire detection products](https://movitherm.com/itl/). I've been working on this solution since its inception back in 2021, and to date we have stopped quite a few fires in our clients' facilities. I design and deploy on all levels of the stack, from our Yocto Linux embedded systems, to computer vision training in infrared, and lately, lots of AWS service orchestration.
 
-On the side, I'm really passionate about using agents and LLMs to foster creative work. I have a lot of thoughts about how AI coding has disrupted focus, control, and passion in software projects, and I'm on a mission to make software engineering fun. My projects [almagest](https://github.com/nathanaday/almagest) and [duet](https://github.com/nathanaday/obsidian-duet) bring agents to life in Obsidian so you can take notes without breaking focus and grow your own personal wiki.
+### Graduate research
+
+I'm also a second year MSCS student at USC. My current course load focuses on applications for [autonomous vehicles](https://github.com/nathanaday/autonomous-vehicle-sandbox) from two perspectives: cyber-physical control and [deep learning perception](https://github.com/kgqiao/monocular-depth-confidence-estimation).
+
+
+### Current Passion Projects
+
+On the side, I'm really passionate about using agents and LLMs to foster creative work. I have a lot of thoughts about how AI coding has disrupted focus, control, and passion in software projects, and I'm on a mission to make software engineering fun. 
+
+
+- **Hassle-free** agentic workflows and **intuitive** workflow design
+  - [hikari](https://github.com/nathanaday/hikari) - agents run in isolated containers and communicate through a wiki-style orchestration layer
+ 
+- Giving **Obsidian** markdown editor their agent superpowers
+  - [almagest](https://github.com/nathanaday/almagest) - LLM wiki knowledge base
+  - [duet](https://github.com/nathanaday/obsidian-duet) - in-line mentions to start your agent harness in any obsidian doc
+  - [yami](https://github.com/nathanaday/yami) - A Typescript library for LLM wiki powers (supercharged) (planned cutover w/ Almagest)
 
 <br>
+
+### my haiku
+
+> I really love Go.
+> I can tolerate Python,
+> where it is useful
 
   <div align="center">
     <a href="https://github.com/nathanaday">
